@@ -1,3 +1,3 @@
-ffunction getPerson(name, surname){
+function getPerson(name, surname){
 	return name + " " + surname;
 }
